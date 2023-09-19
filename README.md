@@ -15,6 +15,9 @@ Qué cosas necesitas para instalar el software y cómo instalarlas
 ```
 git clone https://github.com/proyecMariana/JavaPrograma
 ```
+```
+git init
+```
 
 ### Instalación
 
